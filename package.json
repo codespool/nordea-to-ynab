@@ -1,0 +1,8 @@
+{
+  "name": "nordea-to-ynab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sasa Pul <sasa.pul@freska.fi>",
+  "license": "MIT",
+  "dependencies": {}
+}
